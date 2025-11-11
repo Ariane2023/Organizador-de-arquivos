@@ -3,7 +3,7 @@
 Um script simples em Python que organiza automaticamente os arquivos de uma pasta (como a pasta Downloads) 
 em subpastas de acordo com o tipo de arquivo — por exemplo, imagens, documentos, vídeos, áudios e compactados.
 
-##🚀 Funcionalidades
+## 🚀 Funcionalidades
 
 Move arquivos automaticamente para pastas correspondentes (Imagens, Documentos, Vídeos etc.).
 
@@ -11,13 +11,13 @@ Cria as pastas automaticamente caso elas não existam.
 
 Facilita a organização da pasta de downloads com apenas um comando.
 
-##🧠 Tecnologias utilizadas
+## 🧠 Tecnologias utilizadas
 
 Python 3
 
 Bibliotecas: os, shutil
 
-##⚙️ Como usar
+## ⚙️ Como usar
 
 Clone este repositório ou baixe os arquivos.
 
@@ -33,7 +33,7 @@ python main.py
 
 Pronto! Seus arquivos serão organizados automaticamente 😄
 
-##💡 Exemplo de organização
+## 💡 Exemplo de organização
 
 Antes:
 
@@ -53,7 +53,7 @@ Downloads/
 ├── Documentos/
 │   └── relatorio.pdf
 
-##👩‍💻 Autora
+## 👩‍💻 Autora
 
 Ariane de Abreu Costa
 📍 São josé - SC
