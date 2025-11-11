@@ -46,12 +46,12 @@ Downloads/
 Depois:
 
 Downloads/
-├── Imagens/
-│   └── foto.png
-├── Áudios/
-│   └── musica.mp3
-├── Documentos/
-│   └── relatorio.pdf
+- Imagens/
+   └── foto.png
+- Áudios/
+   └── musica.mp3
+- Documentos/
+   └── relatorio.pdf
 
 ## 👩‍💻 Autora
 
