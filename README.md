@@ -37,10 +37,10 @@ Pronto! Seus arquivos serão organizados automaticamente 😄
 
 Antes:
 
-Downloads/
-├── foto.png
-├── musica.mp3
-├── relatorio.pdf
+Downloads
+- foto.png
+- musica.mp3
+- relatorio.pdf
 
 
 Depois:
